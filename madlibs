@@ -1,5 +1,5 @@
 #madlibs game using python
- conjuction1 = input("Enter a conjuction word which connects:")
+conjuction1 = input("Enter a conjuction word which connects:")
 adjective1   = input("Enter an adjective (description:)")
 noun1        = input("Enter name or place or thing:")
 noun2        = input("Enter noun2: ")
